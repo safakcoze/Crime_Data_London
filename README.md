@@ -5,6 +5,4 @@ According to the Crime Map showing, Crime data obtained from the Metropolitan Po
 
 The Crime map is made with #python using mostly #geopandas, #pandas to visualise the maps between 2010-2021 and #matplotlib.
 
-Data used: Metropolitan Police: https://data.london.gov.uk/dataset/recorded_crime_summary
-
 ![London_CrimeData](https://github.com/safakcoze/Crime_Data_London/assets/139701981/5dd6db5a-0388-45c7-a5dc-c4753c2e4e87)
